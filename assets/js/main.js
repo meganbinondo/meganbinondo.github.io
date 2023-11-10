@@ -273,6 +273,6 @@
    */
   new PureCounter();
 
-  
+
 
 })()
